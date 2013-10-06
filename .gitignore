@@ -1,0 +1,12 @@
+#Eclipse specific settings
+Debug
+Release
+.metadata
+.cproject
+.project
+.settings
+.classpath
+
+#Objects created during build
+*.o
+*.d
